@@ -15,7 +15,7 @@ public class Main {
         int newRabbit = 1; //这一月生成兔子的数量和
         int count; //中间值 用来存数量的
         int month = 24;
-
+        System.out.println("Hellowrld");
         System.out.println("第1月兔子 1 对");
         System.out.println("第2月兔子 1 对");
         //从第三月起
